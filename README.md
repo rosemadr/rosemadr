@@ -5,7 +5,7 @@ A former publisher and Literature and Philosophy MA grad turned programmer.
 You can see my very first coding attempts (of a literary bent of course!) saved for posterity in my will-compare repository – a project to compare versions of Hamlet. A version 2 is in the making!
 
 ♀️ <i>Pronouns:</i> she/her<br>
-💻 <i>Currently working on:</i> a budgeting app using object-oriented python.<br>
+💻 <i>Currently working on:</i> learning Java.<br>
 📚 <i>Currently studying:</i> at QA Academy's DFE Software Development bootcamp – Java, Spring Boot.<br>
 💬 <i>Wanna say hi?</i> Drop me a message on LinkedIn or email.
 
