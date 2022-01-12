@@ -20,6 +20,6 @@ For a good example of my OOP and Java skills check out the Garage Exercise in my
 ---
 
 Currently adding to the 🧰 Toolbox<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg" width="50" height="50" alt="Java logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original-wordmark.svg" width="50" height="50" alt="Spring logo">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original-wordmark.svg" width="50" height="50" alt="Spring logo">
 
 ---
