@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Madi
+### Hi there 👋 I'm Madi (she/her)
 ---
 A former publisher and Literature and Philosophy MA grad turned programmer.
 
@@ -6,9 +6,8 @@ You can see my very first coding attempts (of a literary bent of course!) saved 
 
 For a good example of my OOP and Java skills check out the Garage Exercise in my DFESW7_week2 repo.
 
-♀️ <i>Pronouns:</i> she/her<br>
-💻 <i>Currently working on:</i> learning Java, SOLID principles and design patterns – check out my DFESW7 Java repos to see my work.<br>
-📚 <i>Currently studying:</i> at QA Academy's DFE Software Development bootcamp – Java, Spring Boot.<br>
+💻 <i>Currently working on:</i> my end of bootcamp project using Java, Spring Boot and MySQL integration, with unit and integration testing.<br>
+📚 <i>Currently studying:</i> Java, SOLID principles, JDBC and Spring Boot at QA Academy's DFE Software Development bootcamp.<br>
 💬 <i>Wanna say hi?</i> Drop me a message on LinkedIn or email.
 
 ---
