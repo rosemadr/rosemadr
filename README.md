@@ -4,12 +4,10 @@ A former publisher and Literature and Philosophy MA grad turned Software Develop
 
 You can see my very first coding attempts (of a literary bent of course!) saved for posterity in my will-compare repository – a project to compare versions of Hamlet.
 
-
-
 For a good example of my Java and Spring Boot skills check out my end of bootcamp project a [library API](https://github.com/rosemadr/DFESW7_Final_Project).
 
-💻 <i>Working at:</i> [Three Square Market](https://www.32go.co.uk/), building and debugging Go, C# and Typescript. 
-<!--- * practicing my Java skills (see pinned repos for current work!)
+<!--- 💻 <i>Working at:</i> [Three Square Market](https://www.32go.co.uk/), building and debugging Go, C# and Typescript. 
+ * practicing my Java skills (see pinned repos for current work!)
 * building my Linux and command line knowledge using the [overthewire games](https://overthewire.org/wargames/)<br>
 📚 <i>Currently studying:</i> Java, SOLID principles, JDBC and Spring Boot at QA Academy's DFE Software Development bootcamp.<br> --->
 💬 <i>Wanna say hi?</i> Drop me a message on LinkedIn or email.
