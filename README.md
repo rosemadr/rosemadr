@@ -15,8 +15,8 @@ For a good example of my Java and Spring Boot skills check out my end of bootcam
 ---
 
 🧰 Toolbox
-### Languages
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg" width="50" height="50" alt="Java logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original-wordmark.svg" width="50" height="50" alt="Spring logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg" width="50" height="50" alt="Python logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" alt="C# logo"> 
+#### Languages
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg" width="50" height="50" alt="Java logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg" width="50" height="50" alt="Python logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" alt="C# logo"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="Typescript logo">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50" height="50" alt="Go logo"> 
 
@@ -24,9 +24,12 @@ For a good example of my Java and Spring Boot skills check out my end of bootcam
 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/azure/azure-original-wordmark.svg" width="50" height="50" alt="Azure logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original-wordmark.svg" width="50" height="50" alt="Git logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jira/jira-original-wordmark.svg" width="50" height="50" alt="Jira logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ssh/ssh-original-wordmark.svg" width="50" height="50" alt="SSH logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original-wordmark.svg" width="50" height="50" alt="VSCode logo">
-<!--
----
 
+---
+### #Frameworks
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original-wordmark.svg" width="50" height="50" alt="Spring logo"> 
+
+<!---
 Currently adding to the 🧰 Toolbox<br>
 
 
