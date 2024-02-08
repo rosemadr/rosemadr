@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Madi (she/her)
 ---
-A former publisher and Literature and Philosophy MA grad turned Software Developer.
+A former publisher and Literature and Philosophy MA grad turned Software Engineer.
 
 You can see my very first coding attempts (of a literary bent of course!) saved for posterity in my will-compare repository – a project to compare versions of Hamlet.
 
