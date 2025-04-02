@@ -1,36 +1,25 @@
 ## Hi there 👋 I'm Madi (she/her)
 ---
-A former publisher and Literature and Philosophy MA grad turned Software Engineer.
+A former publisher and Literature and Philosophy MA grad turned Software Engineer. You can see my very first coding attempts (of a literary bent of course!) saved for posterity in my will-compare repository – a project to compare versions of Hamlet.
 
-You can see my very first coding attempts (of a literary bent of course!) saved for posterity in my will-compare repository – a project to compare versions of Hamlet.
+I have now been coding for 3+ years. I am primarily a backend Java engineer but I also spent significant time doing Data engineering (so very comfortable with SQL and relational dbs) and am now doing bits of Frontend too. Currently building my skills re Gen AI tech by learning how to utlise GitHub CoPilot and contributing to agentic apps.
+
+I am passionate about Sustainable Software Engineering and delivered a talk on the topic ("From Clean Code to Green Code") at JAX New York conference in October 2024. 
 
 <!--- 💻
 For a good example of my Java and Spring Boot skills check out my end of bootcamp project a [library API](https://github.com/rosemadr/DFESW7_Final_Project).
  * practicing my Java skills (see pinned repos for current work!)
 * building my Linux and command line knowledge using the [overthewire games](https://overthewire.org/wargames/)<br>
 📚 <i>Currently studying:</i> Java, SOLID principles, JDBC and Spring Boot at QA Academy's DFE Software Development bootcamp.<br> --->
-💬 <i>Wanna say hi?</i> Drop me a message on LinkedIn or email.
+💬 <i>Wanna say hi?</i> Drop me a message on [LinkedIn](https://www.linkedin.com/in/mrsimcock-brown/) or email.
 
 ---
 
 ### Toolbox 🧰
-#### Languages
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg" width="50" height="50" alt="Java logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg" width="50" height="50" alt="Python logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" alt="C# logo"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="Typescript logo">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50" height="50" alt="Go logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bash/bash-original.svg" width="50" height="50" alt="Bash logo"> 
- <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="50" height="50" alt="Microsoft SQL Server logo"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL logo"> 
-<!--- <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5 logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS logo"> --->
-
----
-
-#### Frameworks
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original-wordmark.svg" width="50" height="50" alt="Spring logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" width="50" height="50" alt="Ionic logo">
-<!---
-Currently adding to the 🧰 Toolbox<br>
--->
-
----
-
-#### Tools and Software
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/azure/azure-original-wordmark.svg" width="50" height="50" alt="Azure logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" width="50" height="50" alt="Bitbucket logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original-wordmark.svg" width="50" height="50" alt="Git logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jira/jira-original-wordmark.svg" width="50" height="50" alt="Jira logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ssh/ssh-original-wordmark.svg" width="50" height="50" alt="SSH logo"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original-wordmark.svg" width="50" height="50" alt="VSCode logo">
+<ul><li> Java, Python, Javascript, Bash/Zsh, HTML, CSS </li>
+<li> AI, T-SQL, Azure Synapse, DAX, MySQL </li>
+<li> Agile, Scrum, DevOps, SOLID, Test Driven Development </li>
+<li> Git, Jira, Jenkins, SonarQube, Confluence, Docker </li>
+<li> Microsoft Azure, AWS </li>
+<li> MacOS, Windows, Linux </li>
+</ul>
