@@ -2,7 +2,7 @@
 ---
 A former publisher and Literature and Philosophy MA grad turned Software Engineer. You can see my very first coding attempts (of a literary bent of course!) saved for posterity in my will-compare repository – a project to compare versions of Hamlet.
 
-I have now been coding for 3+ years. I am primarily a backend Java engineer but I also spent significant time doing data engineering (so very comfortable with SQL and relational dbs) and am now doing bits of frontend too. Currently building my skills in the Gen AI space by learning how to utlise GitHub CoPilot and contributing to agentic apps.
+I have now been coding for 3+ years. I am primarily a backend Java engineer but I also spent significant time doing data engineering (so very comfortable with SQL and relational dbs) and am now doing bits of frontend too.
 
 I am passionate about Sustainable Software Engineering and delivered a talk on the topic ("From Clean Code to Green Code") at JAX New York conference in October 2024. 
 
