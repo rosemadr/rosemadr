@@ -1,8 +1,8 @@
-## Hi there 👋 I'm Madi (she/her)
+## Hi there 👋 I'm Madi (she/they)
 ---
 A former publisher and Literature and Philosophy MA grad turned Software Engineer. You can see my very first coding attempts (of a literary bent of course!) saved for posterity in my will-compare repository – a project to compare versions of Hamlet.
 
-I have now been coding for 3+ years. I have a mixed technical background, having original trained in Java, spent significant time doing data engineering, am now doing a Full-Stack role. I love learning new technologies and getting stuck in to the problem at hand.
+I have now been a SWE for 3+ years. I have a mixed technical background, having original trained in Java, spent significant time doing data engineering, am now doing a Full-Stack role. I love learning new technologies and getting stuck in to the problem at hand.
 
 I am passionate about Sustainable Software Engineering and delivered a talk on the topic ("From Clean Code to Green Code") at JAX New York conference in October 2024. 
 
@@ -17,9 +17,9 @@ For a good example of my Java and Spring Boot skills check out my end of bootcam
 
 ### Toolbox 🧰
 <ul><li> Java, Javascript, Python, Bash/Zsh, HTML, CSS </li>
-<li> T-SQL, Azure Synapse, DAX, AI agents, MySQL </li>
-<li> Agile, Scrum, DevOps, SOLID, Test Driven Development </li>
-<li> Git, Jira, Jenkins, SonarQube, Confluence, Docker </li>
-<li> Microsoft Azure, AWS </li>
-<li> MacOS, Windows, Linux </li>
+<li> T-SQL, Azure Synapse, DAX, AI agents, MySQL</li>
+<li> Agile, Test Driven Development, Scrum, DevOps, SOLID</li>
+<li> Git, Jira, Jenkins, SonarQube, Selenium, Confluence, Docker</li>
+<li> Microsoft Azure, AWS</li>
+<li> Linux, MacOS, Windows</li>
 </ul>
