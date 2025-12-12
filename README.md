@@ -16,7 +16,7 @@ For a good example of my Java and Spring Boot skills check out my end of bootcam
 ---
 
 ### Toolbox 🧰
-<ul><li> Java, Javascript, Python, Bash/Zsh, HTML, CSS </li>
+<ul><li> Kotlin, Java, Javascript, Python, Bash/Zsh, HTML, CSS </li>
 <li> T-SQL, Azure Synapse, DAX, AI agents, MySQL</li>
 <li> Agile, Test Driven Development, Scrum, DevOps, SOLID</li>
 <li> Git, Jira, Jenkins, SonarQube, Selenium, Confluence, Docker</li>
