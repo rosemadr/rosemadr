@@ -2,7 +2,7 @@
 ---
 A former publisher and Literature and Philosophy MA grad turned Software Engineer. You can see my very first coding attempts (of a literary bent of course!) saved for posterity in my will-compare repository – a project to compare versions of Hamlet.
 
-I have now been a SWE for 3+ years. I have a mixed technical background, having original trained in Java, spent significant time doing data engineering, am now doing a Full-Stack role. I love learning new technologies and getting stuck in to the problem at hand.
+I have now been a SWE for 3+ years. I have a mixed technical background. Having original trained in Java and spent time doing data engineering, I am now doing a Backend Kotlin role. I love learning new technologies and getting stuck in to the problem at hand.
 
 I am passionate about Sustainable Software Engineering and delivered a talk on the topic ("From Clean Code to Green Code") at JAX New York conference in October 2024. 
 
